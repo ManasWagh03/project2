@@ -1,3 +1,3 @@
 # Project 2
 
-This project is created by me
+This project is created by me.
